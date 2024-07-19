@@ -1,2 +1,1 @@
 FLASK_APP=deepface.py
-FLASK_ENV=development
